@@ -15,7 +15,7 @@ The goal is to uncover community interests, recommend groups to users, and predi
 
 ## 📊 Dataset
 
-The dataset contains **real Meetup data from Nashville** from **Kaggle**, including:  
+The dataset contains **Meetup data from Nashville** from **Kaggle**, including:  
 - **Groups** → categories, descriptions, and activity levels.  
 - **Members** → user profiles and group memberships.  
 - **Events** → details of hosted meetups.  
